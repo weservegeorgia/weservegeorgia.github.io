@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: We Serve
 
 # Your name to show in the footer
-author: Some Person
+author: Aidan Ji
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Providing volunteering opportunities in the Atlanta area to help underprivileged kids in the local community through tennis and education"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
