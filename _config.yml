@@ -20,11 +20,11 @@ author: Aidan Ji
 ###############################################
 
 navbar-links:
-  About Me: "Providing volunteering opportunities in the Atlanta area to help underprivileged kids in the local community through tennis and education"
+  About Us: "Club"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Volunteer Opportunities: "https://beautifuljekyll.com"
+    - AYTEF: "https://www.aytef.org/"
+  Impact: "https://www.aytef.org/impact"
 
 ################
 # --- Logo --- #
