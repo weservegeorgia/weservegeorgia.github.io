@@ -2,7 +2,6 @@
 layout: post
 title: Programs We Provide
 subtitle: Volunteering and Community Work For Everyone
-thumbnail-img: /assets/img/thumb.png
 author: Aidan Ji
 ---
 
