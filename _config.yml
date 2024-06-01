@@ -20,11 +20,10 @@ author: Aidan Ji
 ###############################################
 
 navbar-links:
-  About Us: "Club"
+  Volunteer: "Club"
   Resources:
-    - Impact: "https://www.aytef.org/impact"
     - AYTEF: "https://www.aytef.org/"
-  Volunteer: Page
+  Impact: "https://www.aytef.org/impact"
 
 ################
 # --- Logo --- #
