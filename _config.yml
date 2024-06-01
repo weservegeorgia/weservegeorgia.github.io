@@ -22,9 +22,9 @@ author: Aidan Ji
 navbar-links:
   About Us: "Club"
   Resources:
-    - Volunteer: "https://beautifuljekyll.com"
+    - Impact: "https://www.aytef.org/impact"
     - AYTEF: "https://www.aytef.org/"
-  Impact: "https://www.aytef.org/impact"
+  Volunteer: Page
 
 ################
 # --- Logo --- #
