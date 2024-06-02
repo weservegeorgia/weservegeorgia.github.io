@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Impact
+subtitle: The Purpose
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+WeServe is a Gwinnett County club that helps funnel high school student volunteers into tennis related nonprofit organizations in need of volunteers. Organizations such as AYTEF and ACEing Autism have profound impacts on the underpriviliged and underrepresented youth of the Atlanta Area. They provide resources and opportunities in tennis that reaches the youth far beyond just the sport. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
