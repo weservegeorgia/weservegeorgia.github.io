@@ -10,7 +10,7 @@ subtitle: Sign Up Opportunities
 
 Block Parties are thrown by AYTEF on the last Friday of every month. Here, volunteers will help run the party by playing tennis with kids aged 5-13, provide food and beverages, and overall make sure the event runs smoothly. [Register Now](https://www.givepulse.com/event/418997-AYTEF-Block-Party-Volunteer-Registration)
 
-Interested? [See see how it runs!](https://youtu.be/za21qnRK4Ok)
+Interested? [See how it runs!](https://youtu.be/za21qnRK4Ok)
 
 ### Academic Volunteer
 
