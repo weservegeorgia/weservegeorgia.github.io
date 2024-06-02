@@ -20,7 +20,7 @@ author: Aidan Ji
 ###############################################
 
 navbar-links:
-  Volunteer: "Volunteer"
+  Volunteer: "https://www.aytef.org/"
   Resources:
     - AYTEF: "https://www.aytef.org/"
   Impact: "https://www.aytef.org/impact"
