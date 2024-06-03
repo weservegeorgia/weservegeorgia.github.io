@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: Programs We Provide
 subtitle: Volunteering and Community Work For Everyone
 author: Aidan Ji
