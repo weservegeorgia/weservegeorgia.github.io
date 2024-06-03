@@ -1,9 +1,9 @@
 ---
-layout: 
+layout: post
 title: Programs We Provide
 subtitle: Volunteering and Community Work For Everyone
 author: Aidan Ji
-
+---
 
 WeServe provides various volunteering opportunities for everyone in the local Atlanta community. Whether you're an aspiring tennis coach, passionate about assisting kids with academics, or just trying to get involved in the local community, the various programs WeServe participates in fills all those needs. 
 
