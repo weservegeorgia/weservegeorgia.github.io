@@ -5,4 +5,4 @@ subtitle: The Beginning of WeServe
 author: Aidan Ji
 ---
 
-Welcome to the WeServe website! In collaboration with [AYTEF](https://www.aytef.org/) and other organizations, WeServe strives to provide volunteer opportunities to local high school students to serve the youth in the Atlanta area through tennis and education.
+Welcome to the WeServe website! In collaboration with [AYTEF](https://www.aytef.org/) and other organizations, WeServe strives to provide volunteer opportunities to local high school students to serve the youth in the Atlanta area through education and tennis.
