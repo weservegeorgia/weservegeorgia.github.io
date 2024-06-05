@@ -28,7 +28,7 @@ Assist teaching tennis with the AYTEF youth. Located at Fair Oaks Tennis Center,
 
 ### Racket Drives
 
-Donate used rackets to the IPLAYTennis Foundation where rackets are refurbished and distributed to underprivileged kids in the Atlanta area. 
+Donate used rackets to the I PLAY TENNIS Foundation where rackets are refurbished and distributed to underprivileged kids in the Atlanta area. 
 
 [Learn More](https://www.aytef.org/_files/ugd/697e0b_4759f9e2372d43ec96a2a6debbf5d081.pdf)
 
