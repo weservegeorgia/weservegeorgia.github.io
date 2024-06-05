@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteer Now
-subtitle: Sign Up Opportunities
+subtitle: Sign-Up Opportunities
 ---
 
 
