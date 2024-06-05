@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impact
-subtitle: The Purpose
+subtitle: Our Purpose
 ---
 
 WeServe is a club located in the Atlanta area that helps funnel volunteers into tennis related nonprofit organizations in need of assistance.
