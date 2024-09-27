@@ -2,7 +2,7 @@
 layout: post
 title: Block Party 
 subtitle: AYTEF Volunteering
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/SAM_1636.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 author: WeServe
