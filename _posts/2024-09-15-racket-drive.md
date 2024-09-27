@@ -2,7 +2,7 @@
 layout: post
 title: Racket Drive
 subtitle: Donation Progress
-cover-img: /assets/img/2023-06-29.jpg
+cover-img: /assets/img/tennisrackets.jpg
 thumbnail-img: /assets/img/2023-06-29.jpg
 share-img: /assets/img/2023-06-29.jpg
 author: WeServe
