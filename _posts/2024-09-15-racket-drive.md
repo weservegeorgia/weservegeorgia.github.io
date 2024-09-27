@@ -2,9 +2,9 @@
 layout: post
 title: Racket Drive
 subtitle: Donation Progress
-cover-img: /assets/img/SAM_1636.jpeg
-thumbnail-img: /assets/img/IMG_9804.jpeg
-share-img: /assets/img/IMG_9804.jpeg
+cover-img: /assets/img/
+thumbnail-img: /assets/img/2023-06-29.jpg
+share-img: /assets/img/2023-06-29.jpg
 author: WeServe
 ---
 
